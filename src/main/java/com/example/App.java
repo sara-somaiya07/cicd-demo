@@ -9,7 +9,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello CI/CD Pipeline!");
+        System.out.println("Hello Jenkins Automatic Build!");
 
         System.out.println("Addition: " + add(10, 20));
     }
